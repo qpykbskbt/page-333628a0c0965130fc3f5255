@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "646689e6c9f6066672753c87",
+  "owner": "qpykbskbt",
+  "repo": "page-333628a0c0965130fc3f5255",
+  "title": "免费订阅节点",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "333628a0c0965130fc3f5255",
+      "a": "GuGuEx",
+      "b": "免费订阅节点",
+      "entity": "GuGuEx",
+      "brand": "免费订阅节点",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "ca08e9ae9411b7cbe2aa46f00e531c14f0ae631d2911756097071be94615a786",
+      "content": {
+        "primary_entity": "GuGuEx",
+        "keyword1": "GuGuEx",
+        "keyword2": "免费订阅节点",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择客户端，订阅链接导入后同步节点配置。",
+          "AI_CLIENTS_TITLE": "设备客户端选择",
+          "AI_CLOSING_TEXT": "先明确设备数量、月均流量与使用周期，再对比 GuGuEx 三档套餐。",
+          "AI_CLOSING_TITLE": "按需选套餐",
+          "AI_DESCRIPTION": "，为跨境办公、流媒体与游戏加速场景提供多档订阅选择。基础版适合单人轻量使用，旗舰版面向多设备与专线需求，团队版支持二十台设备同时在线。每月流量从 100GB 到 1000GB，可按月或按年计费，年付方案更划算。",
+          "AI_FEATURES_INTRO": "从流量、设备数量与订阅周期三个角度对比套餐。",
+          "AI_FEATURES_TITLE": "套餐选择要点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB、3 台设备，旗舰版 300GB、5 台设备，团队版 1000GB、20 台设备。",
+          "AI_FEATURE_TEXT_2": "旗舰版提供 IPLC 专线游戏加速优化与全节点原生流媒体解锁，团队版提供 VIP 专属高带宽节点。",
+          "AI_FEATURE_TEXT_3": "月付灵活试用，年付基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年，适合长期使用。",
+          "AI_FEATURE_TITLE_1": "流量与设备",
+          "AI_FEATURE_TITLE_2": "线路与解锁",
+          "AI_FEATURE_TITLE_3": "计费周期",
+          "AI_GUIDE_INTRO": "选择服务、查看适配要求、依客户端文档配置订阅。",
+          "AI_GUIDE_TITLE": "订阅配置步骤",
+          "AI_HERO_INTRO": "GuGuEx 提供基础版、旗舰版与团队版三档海外加速订阅，覆盖单人、多设备与团队场景。按月或按年计费，年付方案可降低月均成本，适合长期跨境办公与流媒体需求。",
+          "AI_HERO_SUBTITLE": "多档订阅按需选择",
+          "AI_HIGHLIGHT_1": "基础版 100GB 流量，3 台设备",
+          "AI_HIGHLIGHT_2": "旗舰版含 IPLC 专线游戏加速优化",
+          "AI_HIGHLIGHT_3": "团队版 1000GB 流量，20 台设备",
+          "AI_PLANS_INTRO": "基础版每月 100GB 支持 3 台设备；旗舰版每月 300GB 支持 5 台设备并含 IPLC 专线优化；团队版每月 1000GB 支持 20 台设备。年付分别为 ¥150、¥350、¥850。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据设备数量与月均流量选择基础版、旗舰版或团队版。",
+          "AI_STEP_TEXT_2": "确认所用设备的系统与客户端适配情况。",
+          "AI_STEP_TEXT_3": "依照客户端文档导入订阅链接并同步节点。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "GuGuEx 加速订阅",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "三档套餐的主要区别是什么？",
+          "AI_FAQ_ANSWER_1": "基础版提供 100GB 流量与 3 台设备，旗舰版提升至 300GB、5 台设备并加入 IPLC 专线，团队版为 1000GB、20 台设备且支持定制路由。",
+          "AI_FAQ_QUESTION_2": "年付比月付划算多少？",
+          "AI_FAQ_ANSWER_2": "基础版年付 ¥150，旗舰版 ¥350，团队版 ¥850，约合月付价格的八三折。长期使用年付方案平均月成本更低。",
+          "AI_FAQ_QUESTION_3": "如何导入订阅到客户端？",
+          "AI_FAQ_ANSWER_3": "在客户端中找到订阅或配置导入入口，粘贴套餐附带的订阅地址，保存后更新节点列表即可。具体路径因客户端不同而有差异。",
+          "AI_FAQ_QUESTION_4": "设备数超限会怎样？",
+          "AI_FAQ_ANSWER_4": "同时在线设备数超过套餐上限时，新设备可能无法连接。可在客户端断开闲置设备，或升级到支持更多设备的套餐。",
+          "AI_FAQ_QUESTION_5": "团队版适合什么场景？",
+          "AI_FAQ_ANSWER_5": "团队版支持 20 台设备同时在线，提供 VIP 高带宽节点与企业定制路由，适合小型团队统一配置多台办公设备。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "5181e4da77269b7f96a008ef6c8263ec5be67415abb48c1a7f6a0ef393913ef0",
+    "sitemap.xml": "bb072dc453e749152c23e3c4a06717a28afc3b68df711c5a55522d1695a0554a",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "2330f45b5455304c1a086c9dab37c0284c260407e1263c1955a0d62f12098496"
+}
